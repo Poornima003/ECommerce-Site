@@ -87,4 +87,8 @@ background: linear-gradient(to right, #434343,#000000);
   justify-content: center;
 }
 
+.product-link{
+  text-decoration: none !important;
+  color: black !important;
+}
 
