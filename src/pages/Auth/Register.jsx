@@ -14,7 +14,7 @@ function Register() {
   const [answer, setAnswer] = useState('')
   const navigate = useNavigate()
 
-
+//form function
   const handleSubmit = async (e) => {
     e.preventDefault()
     try {
